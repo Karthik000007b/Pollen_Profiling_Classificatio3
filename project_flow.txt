@@ -1,0 +1,6 @@
+## Project Flow
+1. Data Collection
+2. Exploratory Data Analysis
+3. Image Pre-Processing
+4. Model Building
+5. Application Building

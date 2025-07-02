@@ -1,0 +1,5 @@
+## Project Structure
+- data/
+- notebooks/
+- app/
+- models/

@@ -1,0 +1,3 @@
+## Project Objectives
+- Automate the identification of pollen grains
+- Improve accuracy of classification with deep learning

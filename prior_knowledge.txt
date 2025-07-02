@@ -1,0 +1,4 @@
+## Prior Knowledge
+- Basics of Deep Learning
+- Image Processing Techniques
+- Python Programming
